@@ -57,5 +57,10 @@
 
     /* LINE-HEIGHT */
     /* Increases the vertical space between two lines in a paragraph */
-    line-height: 35px;
+    /* line-height: 35px; */
+
+    /* FONTS */
+    font-size: 40px;
+    font-style: italic;
+    font-family: fantasy;
 }
