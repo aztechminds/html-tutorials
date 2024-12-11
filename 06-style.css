@@ -12,5 +12,8 @@
 } */
 
 .hello {
-    background:#fff;
+    /* background:#4c1b7f57; */
+    /* background-color: aqua; */
+    background-image: url(images/eagle.png);
+    height: 900px;
 }
