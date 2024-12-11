@@ -12,7 +12,7 @@
 } */
 
 .hello {
-    
+
     /* BACKGROUND */
     /* background:#4c1b7f57; */
     /* background-color: aqua; */
@@ -38,4 +38,22 @@
     /* to change only one corner use for example: border-left-radius */
     border-top-right-radius: 20px;
 
+    /* CURSOR */
+    /*To change the mouse pointer to hand */
+    /* cursor: pointer;  */
+
+    /* CONTENT */
+    /* To move or change the position of the content */
+    /* float: right; */
+
+    /* DISPLAY */
+    /* To hidde the Content from the page */
+    /* display: none; */
+    /* visibility: hidden; */
+
+    /* DIMENSION */
+    background: red;
+    height: 500px;
+    width: 50%;
+    min-width: 300px;
 }
