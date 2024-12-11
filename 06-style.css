@@ -45,15 +45,17 @@
     /* CONTENT */
     /* To move or change the position of the content */
     /* float: right; */
-
-    /* DISPLAY */
     /* To hidde the Content from the page */
     /* display: none; */
     /* visibility: hidden; */
 
     /* DIMENSION */
-    background: red;
+    /* background: red;
     height: 500px;
     width: 50%;
-    min-width: 300px;
+    min-width: 300px; */
+
+    /* LINE-HEIGHT */
+    /* Increases the vertical space between two lines in a paragraph */
+    line-height: 35px;
 }
