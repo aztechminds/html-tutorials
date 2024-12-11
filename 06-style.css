@@ -12,12 +12,30 @@
 } */
 
 .hello {
+    
+    /* BACKGROUND */
     /* background:#4c1b7f57; */
     /* background-color: aqua; */
-    height: 1000px;
+    /* height: 1000px;
     width: auto;
     background-image: url(images/eagle.png);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;
+    background-size: cover; */
+
+    /* BORDER - 
+    can be added in seperate lines */
+    /*border-style: dotted;
+    border-width: 2px;
+    border-color:red; */
+
+    /*or in one line */
+    /* border is for all sides 
+    if you wish for a specific side only, use
+    border-top, border-right, border-bottom, border-left*/
+    border: 2px solid rgb(62, 48, 196);
+    /* border-radius: 20px; This will make the border-corner circle */
+    /* to change only one corner use for example: border-left-radius */
+    border-top-right-radius: 20px;
+
 }
