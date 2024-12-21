@@ -33,10 +33,10 @@
     /* border is for all sides 
     if you wish for a specific side only, use
     border-top, border-right, border-bottom, border-left*/
-    border: 2px solid rgb(62, 48, 196);
+    /* border: 2px solid rgb(62, 48, 196); */
     /* border-radius: 20px; This will make the border-corner circle */
     /* to change only one corner use for example: border-left-radius */
-    border-top-right-radius: 20px;
+    /* border-top-right-radius: 20px; */
 
     /* CURSOR */
     /*To change the mouse pointer to hand */
@@ -63,9 +63,11 @@
     /* font-size: 40px;
     font-style: italic;
     font-family: fantasy; */
-    text-transform: uppercase; //changes the textfrom to uppercase
+    /* text-transform: uppercase; //changes the textfrom to uppercase
     letter-spacing: 5px; //space between each letter
-    word-spacing: 10px; //space beetween each word 
+    word-spacing: 10px; //space beetween each word  */
+    text-shadow: 0px 5px 12px #3d84ba;
+    font-size: 40px;
 
 
 }
