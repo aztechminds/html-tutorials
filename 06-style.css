@@ -60,7 +60,12 @@
     /* line-height: 35px; */
 
     /* FONTS */
-    font-size: 40px;
+    /* font-size: 40px;
     font-style: italic;
-    font-family: fantasy;
+    font-family: fantasy; */
+    text-transform: uppercase; //changes the textfrom to uppercase
+    letter-spacing: 5px; //space between each letter
+    word-spacing: 10px; //space beetween each word 
+
+
 }
